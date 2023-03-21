@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>First</title>
+</head>
+<body>
+    <?php
+    
+    //Functions
+
+     //string()
+     /*$name = "Kasun Perera";
+     $result = strlen($name);
+     echo $name;
+     echo "<br>";
+     echo $result;*/
+
+     //str_word_vount()
+     /*$name = "Kasun Perera";
+     $result = str_word_count($name);
+     echo $name;
+     echo "<br>";
+     echo $result;*/
+
+
+     //strrev
+     /*$name = "Kasun Perera";
+     $result = strrev($name);
+     echo $name;
+     echo "<br>";
+     echo $result;*/
+
+     //strpos()
+     /*$name = "Kasun Perera";
+     $result = strpos($name, "Kasun");
+     echo $name;
+     echo "<br>";
+     echo $result;*/
+
+     //str_replace()
+     /*$name = "Kasun Perera";
+     $result = str_replace("Perera","Namal", $name);
+     echo $name;
+     echo "<br>";
+     echo $result;*/
+
+    ?>
+</body>
+</html>
