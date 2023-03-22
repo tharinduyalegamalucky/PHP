@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>First</title>
+</head>
+<body>
+    <?php
+    
+    // IF else
+
+    $x = 20;
+    $y = 30;
+    $z = 20;
+    $w = 10;
+
+    if($x == $y || $x == $z){
+        echo "Hello Sri Lanka";
+        echo "<br>";
+        echo "<br>";
+    }
+    if($y == 30){
+        echo "Hello America";
+        echo "<br>";
+        echo "<br>";
+    }
+    else if($x == $z && $x == $w){
+        echo "Hello Naigiria";
+        echo "<br>";
+        echo "<br>";
+    }
+    else{
+        echo "Hello World";
+    }
+    ?>
+</body>
+</html>
